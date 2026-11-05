@@ -1,1 +1,1 @@
-https://xcvl.github.io/keyMouse-download/index.html (https://xcvl.github.io/keyMouse-download/index.html, "Go to the keyMouse download page.")
+https://xcvl.github.io/keyMouse-download/index.html
