@@ -1,0 +1,7 @@
+[Bb]in/
+[Oo]bj/
+installer.nsi
+keyMouseSetup.exe
+make-payload.cmd
+payload-install.nsh
+payload-remove.nsh
